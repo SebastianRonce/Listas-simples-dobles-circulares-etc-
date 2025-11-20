@@ -1,7 +1,7 @@
 # Estructuras de Datos en Java
 **Autor:** Sebastian Ronceria
 
-Este repositorio contiene una colección de implementaciones de estructuras de datos fundamentales desarrolladas en Java, organizadas con fines educativos y de práctica.
+Este repositorio contiene una colección de implementaciones de estructuras de datos fundamentales desarrolladas en Java.
 
 ---
 
@@ -9,9 +9,9 @@ Este repositorio contiene una colección de implementaciones de estructuras de d
 
 ## Listas Enlazadas
 - Lista Simple
-- Lista Doblemente Enlazada
+- Lista Doble
 - Lista Circular
-- Lista Circular Doblemente Enlazada
+- Lista Circular Doble
 
 ## Estructuras Lineales
 - Pilas (Stack)
@@ -25,29 +25,15 @@ Este repositorio contiene una colección de implementaciones de estructuras de d
 
 ---
 
-# Objetivo del Proyecto
-Este proyecto tiene como finalidad brindar implementaciones claras y funcionales que permitan entender:
-
-- El funcionamiento interno de cada estructura
-- El manejo de nodos y referencias
-- Las operaciones principales de cada estructura
-- El uso de recursividad y lógica dinámica
-
----
-
 # Tecnologías Utilizadas
-- Java 17 o superior
-- Cualquier IDE (IntelliJ IDEA, Eclipse, VS Code, NetBeans)
+- Java 
+- IntelliJ IDEA
 - Git y GitHub para control de versiones
 
 ---
 
 # Organización del Repositorio
-Cada estructura está separada en su propia carpeta, facilitando el estudio individual de cada tema.
+Todos los archivos se encuentran dentro de la carpeta.
 
 ---
-
-# Cómo Ejecutar el Proyecto
-
-1. Clonar el repositorio:
 
